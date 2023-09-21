@@ -1,0 +1,12 @@
+#footer {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* Adicione essas regras de estilo ao seu arquivo styles.css */
+.Hidden {
+    display: none;
+}
+
+.Show {
+    display: block;
+}
